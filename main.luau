@@ -61,7 +61,7 @@ text2.BorderSizePixel = 0
 text2.Position = UDim2.new(0.0402930416, 0, 0.247967437, 0)
 text2.Size = UDim2.new(0, 236, 0, 146)
 text2.Font = Enum.Font.SourceSans
-text2.Text = "Turn game language to vietnam ( setting > Experience Language > Vietnam ) made by @.s3w_"
+text2.Text = "please turn game language to Vietnam  "
 text2.TextColor3 = Color3.fromRGB(255, 255, 255)
 text2.TextScaled = true
 text2.TextSize = 14.000
@@ -100,7 +100,7 @@ TextLabel.BorderColor3 = Color3.fromRGB(48, 255, 255)
 TextLabel.Position = UDim2.new(0.0126126129, 0, 0, 0)
 TextLabel.Size = UDim2.new(0, 222, 0, 55)
 TextLabel.Font = Enum.Font.SourceSans
-TextLabel.Text = " FakeVerified"
+TextLabel.Text = " Verified Chat "
 TextLabel.TextColor3 = Color3.fromRGB(255, 255, 255)
 TextLabel.TextScaled = true
 TextLabel.TextSize = 14.000
@@ -128,7 +128,7 @@ message.BorderSizePixel = 0
 message.Position = UDim2.new(0.0360360369, 0, 0.203883499, 0)
 message.Size = UDim2.new(0, 320, 0, 199)
 message.Font = Enum.Font.SourceSans
-message.Text = "Test :D"
+message.Text = "made by @.s3w_ on discord"
 message.TextColor3 = Color3.fromRGB(0, 0, 0)
 message.TextSize = 20.000
 message.TextWrapped = true
@@ -212,7 +212,7 @@ cat.BorderColor3 = Color3.fromRGB(0, 0, 0)
 cat.BorderSizePixel = 0
 cat.Size = UDim2.new(0, 66, 0, 64)
 cat.Visible = false
-cat.Image = "rbxassetid://138351034637193"
+cat.Image = "https://cdn.discordapp.com/attachments/1339571639083597825/1342843915828592772/lunettes-droles.png?ex=67bb1c5a&is=67b9cada&hm=a7d7db75035ecbd4c8749075ef0d32d894dfecb810d91cf72857f2cd4a904f65&"
 
 -- Scripts:
 
