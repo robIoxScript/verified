@@ -55,7 +55,7 @@ text1.TextWrapped = true
 text2.Name = "text2"
 text2.Parent = warning
 text2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-text2.BackgroundTransparency = 1.000
+text2.BackgroundTransparency = 0
 text2.BorderColor3 = Color3.fromRGB(0, 0, 0)
 text2.BorderSizePixel = 0
 text2.Position = UDim2.new(0.0402930416, 0, 0.247967437, 0)
@@ -64,7 +64,7 @@ text2.Font = Enum.Font.SourceSans
 text2.Text = "please turn game language to Vietnam  "
 text2.TextColor3 = Color3.fromRGB(255, 255, 255)
 text2.TextScaled = true
-text2.TextSize = 14.000
+text2.TextSize = 10.000
 text2.TextTransparency = 1.000
 text2.TextWrapped = true
 
