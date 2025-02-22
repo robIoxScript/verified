@@ -38,7 +38,7 @@ UICorner.Parent = warning
 
 text1.Name = "text1"
 text1.Parent = warning
-text1.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+text1.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
 text1.BackgroundTransparency = 0.5000
 text1.BorderColor3 = Color3.fromRGB(0, 0, 0)
 text1.BorderSizePixel = 0
@@ -86,7 +86,7 @@ TextButton.TextWrapped = true
 UICorner_2.Parent = TextButton
 
 Frame.Parent = ScreenGui
-Frame.BackgroundColor3 = Color3.fromRGB(65, 65, 65)
+Frame.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
 Frame.BorderColor3 = Color3.fromRGB(0, 0, 0)
 Frame.BorderSizePixel = 2
 Frame.Position = UDim2.new(0.506125569, 0, 0.269968063, 0)
