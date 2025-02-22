@@ -128,7 +128,7 @@ message.BorderSizePixel = 0
 message.Position = UDim2.new(0.0360360369, 0, 0.203883499, 0)
 message.Size = UDim2.new(0, 320, 0, 199)
 message.Font = Enum.Font.SourceSans
-message.Text = "made by @.s3w_ on discord"
+message.Text = "I am verified 😊"
 message.TextColor3 = Color3.fromRGB(0, 0, 0)
 message.TextSize = 20.000
 message.TextWrapped = true
@@ -212,7 +212,7 @@ cat.BorderColor3 = Color3.fromRGB(0, 0, 0)
 cat.BorderSizePixel = 0
 cat.Size = UDim2.new(0, 66, 0, 64)
 cat.Visible = false
-cat.Image = "https://cdn.discordapp.com/attachments/1339571639083597825/1342843915828592772/lunettes-droles.png?ex=67bb1c5a&is=67b9cada&hm=a7d7db75035ecbd4c8749075ef0d32d894dfecb810d91cf72857f2cd4a904f65&"
+cat.Image = "rbxassetid://10950811361"
 
 -- Scripts:
 
