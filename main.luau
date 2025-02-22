@@ -212,7 +212,7 @@ cat.BorderColor3 = Color3.fromRGB(0, 0, 0)
 cat.BorderSizePixel = 0
 cat.Size = UDim2.new(0, 66, 0, 64)
 cat.Visible = false
-cat.Image = "rbxassetid://10950811361"
+cat.Image = "rbxassetid://11818627075"
 
 -- Scripts:
 
@@ -346,7 +346,7 @@ local function RHLUFFH_fake_script() -- TextButton_3.LocalScript
 		local msg = script.Parent.Parent.message.Text
 	
 		local channel = game.TextChatService:WaitForChild("TextChannels"):WaitForChild("RBXGeneral")
-		channel:SendAsync(" he  " .. msg)
+		channel:SendAsync("  " .. msg)
 	end)
 end
 coroutine.wrap(RHLUFFH_fake_script)()
