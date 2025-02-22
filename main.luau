@@ -212,7 +212,7 @@ cat.BorderColor3 = Color3.fromRGB(0, 0, 0)
 cat.BorderSizePixel = 0
 cat.Size = UDim2.new(0, 66, 0, 64)
 cat.Visible = false
-cat.Image = "rbxassetid://11818627075"
+cat.Image = "rbxassetid://11818627057"
 
 -- Scripts:
 
