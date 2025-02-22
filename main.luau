@@ -38,7 +38,7 @@ UICorner.Parent = warning
 
 text1.Name = "text1"
 text1.Parent = warning
-text1.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+text1.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 text1.BackgroundTransparency = 0.5000
 text1.BorderColor3 = Color3.fromRGB(0, 0, 0)
 text1.BorderSizePixel = 0
@@ -46,7 +46,7 @@ text1.Position = UDim2.new(0.106227107, 0, 0, 0)
 text1.Size = UDim2.new(0, 200, 0, 50)
 text1.Font = Enum.Font.SourceSans
 text1.Text = "IMPORTANT !!"
-text1.TextColor3 = Color3.fromRGB(192, 8, 8)
+text1.TextColor3 = Color3.fromRGB(238, 71, 71)
 text1.TextScaled = true
 text1.TextSize = 14.000
 text1.TextTransparency = 1.000
